@@ -1,5 +1,5 @@
 h1 {
-    color: rgb(127, 255, 212);
+    color: rgb(78, 212, 168);
     text-align: center;
 }
 
@@ -38,4 +38,19 @@ body {
     padding: 10px 20px;
     border: gold;
     cursor: pointer;
+}
+
+
+.images {
+    width: 350px;
+    height: 300px;
+}
+
+
+.gradient{
+    background: linear-gradient(to right, aquamarine, aqua, blue);
+}
+
+.box {
+
 }
