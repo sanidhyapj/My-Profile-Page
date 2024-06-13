@@ -1,0 +1,31 @@
+h1 {
+    color: rgb(127, 255, 212);
+    text-align: center;
+}
+
+p {
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: medium;
+text-align: center;
+}
+
+h2 {
+    color: rgb(43, 255, 0);
+    text-align: center;
+}
+
+body {
+    background-color: rgb(123, 191, 255);
+}
+
+.styleli {
+    color: dimgray;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+
+.align-center {
+    text-align: center;
+    list-style-position: inside;
+}
