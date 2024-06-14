@@ -10,7 +10,7 @@ text-align: center;
 }
 
 h2 {
-    color: rgb(43, 255, 0);
+    color: rgb(44, 219, 9);
     text-align: center;
 }
 
@@ -19,7 +19,7 @@ body {
 }
 
 .styleli {
-    color: dimgray;
+    color: rgb(233, 214, 45);
     font-weight: 300;
     font-size: 18px;
 }
@@ -48,9 +48,18 @@ body {
 
 
 .gradient{
-    background: linear-gradient(to right, aquamarine, aqua, blue);
+    background: linear-gradient(to right, aqua, blue, darkblue);
 }
 
 .box {
+border: 5px solid orange;
+padding: 20px;
+margin: 10px 0;
+background: linear-gradient(to right, darkblue, blue, aqua);
+border-radius: 8px;
+}
 
+
+.text {
+    color: aquamarine;
 }
